@@ -1,0 +1,10 @@
+.alert {
+	text-align: center;
+	max-width: 30vw;
+	margin: auto;
+	font-size: 1.5em;
+}
+
+body {
+	font-family: 'Oswald', sans-serif;
+}
